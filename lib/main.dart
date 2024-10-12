@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
                 style: TextStyle(
                     fontSize: 38,
                     color: Color.fromARGB(255, 14, 45, 223),
-                    fontFamily: 'Executive'),
+                    fontFamily: 'Executive'), 
               ),
             ),
             Image.asset(

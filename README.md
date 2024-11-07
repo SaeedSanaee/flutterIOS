@@ -1,4 +1,4 @@
-# secondproject
+# First Training Project
 
 A new Flutter project.
 
